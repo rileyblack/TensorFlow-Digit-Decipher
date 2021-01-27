@@ -1,2 +1,2 @@
 # TensorFlow-Digit-Decipher
-Used TensorFlow to train fully connected (DNN) and convolutional (CNN) neural networks in Python using the [MNIST dataset](https://en.wikipedia.org/wiki/MNIST_database) to recognize handwritten digits with 99% accuracy.
+Reworked 'PyTorch-Digit-Decipher' fully connected neural networks and convolutional neural networks for handwritten digit recognition using TensorFlow framework in Python.
